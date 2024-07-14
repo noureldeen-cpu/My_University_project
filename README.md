@@ -1,2 +1,2 @@
 # Welcome to My Project
-## If you have any ideaes for my project tell me
+## If you have any idea for my project, tell me
