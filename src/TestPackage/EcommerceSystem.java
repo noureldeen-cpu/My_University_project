@@ -1,4 +1,6 @@
-package TestPackage;
+
+jgig
+        hjvpackage TestPackage;
 
 import java.util.Scanner;
 
